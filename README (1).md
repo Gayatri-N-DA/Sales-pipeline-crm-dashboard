@@ -104,8 +104,7 @@ This dashboard consolidates that data into a single, filterable, decision-ready 
 
 | Executive Summary | Team & Manager Performance | Trends & Pipeline Health |
 |---|---|---|
-| ![Executive Summary](screenshots/executive_summary.png) | ![Team Performance](screenshots/team_manager_performance.png) | ![Pipeline Health](screenshots/trends_pipeline_health.png) |
-
+| ![Executive Summary](Executive_Summary.png) | ![Team Performance](Team_Manager_performance.png) | ![Pipeline Health](Trends_pipeline_%20health.png)  |
 ---
 
 ## 📁 Project Structure
@@ -138,10 +137,8 @@ sales-pipeline-crm-dashboard/
 
 ## 📬 Contact
 
-**[Your Name]**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-🔗 [Portfolio](https://your-portfolio-link.com)
+Gayatri
+📧 gayatri.n.0926@gmail.com
 
 ---
 
