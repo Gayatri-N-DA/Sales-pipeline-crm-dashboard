@@ -111,16 +111,14 @@ This dashboard consolidates that data into a single, filterable, decision-ready 
 
 ```
 sales-pipeline-crm-dashboard/
-│
-├── README.md
-├── LICENSE
-├── Sales_Pipeline_Dashboard.pbix
-├── docs/
-│   └── Sales_Pipeline_Case_Study.pdf
-└── screenshots/
-    ├── executive_summary.png
-    ├── team_manager_performance.png
-    └── trends_pipeline_health.png
+   │
+   ├── README.md
+   ├── LICENSE
+   ├── Sales-Dashboard.pbix
+   ├── Case_study_pdf.pdf
+   ├── Executive_Summary.png
+   ├── Team_Manager_performance.png
+   └── Trends_pipeline_ health.png
 ```
 
 ---
